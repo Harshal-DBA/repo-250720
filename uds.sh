@@ -1,5 +1,5 @@
 #!/bin/bash
-#First script 
+#edited on hub
 sudo su -
 yum update -y
 yum install httpd -y
